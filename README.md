@@ -1,2 +1,2 @@
 # Cuda
-learning  about cuda programing
+learning  about cuda programing via colab
